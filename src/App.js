@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Test <code>Page</code> React.
+          Testing <code>New Page</code> React.
         </p>
         
       </header>
